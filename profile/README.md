@@ -1,7 +1,8 @@
 ## FantasyServer 👋
-FantasyServer is a Minecraft Server  
+FantasyServer 是一款系列整合包
+
 ## Join us 🙋‍♀️
-[kook](https://kook.top/40D0uW)  
+点击链接加入QQ频道：https://pd.qq.com/s/63qc5waem
 
 <!--
 
